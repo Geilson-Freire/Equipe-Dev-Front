@@ -1,5 +1,8 @@
 # Equipe-Dev-Front
-Este repositório está dedicado a desenvolvimento de projetos com a equipe do curso engenharia de software 
+Este repositório está dedicado a desenvolvimento de projetos com a equipe do curso engenharia de software.
+
+#1ª Projeto desenvolvido pela equipe dev_front.
+<img src="img/imgCard.jpg" alt="Caeds">
 
 ### Adicionar e mudar entre branchs
 git branch == verifica as branchs disponiveis;
